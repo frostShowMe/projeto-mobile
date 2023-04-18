@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recife Fitness</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="check">Lembrar de mim?</string>
+    <string name="login">Login</string>
+    <string name="error">Usuário incorreto</string>
+    <string name="welcome">Bem-vindo(a) ao Recife Fitness.</string>
+    <string name="firstMessage">O Recife Fitness tem como objetivo levar uma vida mais saudável e esportiva a todos os cidadãos da região metropolitana do Recife.
+Ensino básico sobre exercícios e reeducação alimentar </string>
+    <string name="title">Ciclo basico de exercício</string>
+    <string name="exercise1">1. Ponte Deite-se de bruços no chão sobre uma superfície plana. Eleve o corpo apoiando-se nos dedos dos pés e antebraços (mantendo-os paralelos, à frente da cabeça). Todo o corpo deve permanecer suspenso, formando uma espécie de triângulo retângulo.</string>
+    <string name="exercise2">2. Agachamento na cadeira Com uma cadeira, execute os movimentos de sentar e levantar 10 a 12 vezes por série. Procure fazer o movimento de sentar não muito rápido, fortalecendo a musculatura trabalhada.</string>
+    <string name="start">Vamos ser saudáveis</string>
+
+</resources>

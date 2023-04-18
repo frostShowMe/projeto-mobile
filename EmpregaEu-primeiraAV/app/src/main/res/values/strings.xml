@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recife Fitness</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="check">remember me?</string>
+    <string name="login">Login</string>
+    <string name="error">Wrong user</string>
+    <string name="welcome">  Welcome to Recife.</string>
+    <string name="firstMessage">Recife Fitness aims to lead a healthier and sportier life to all citizens of the metropolitan area of Recife.
+Teaching basics about exercise and food reeducation </string>
+    <string name="title"> Basic exercise cicle of the week</string>
+    <string name="exercise1"> 1 Bridge Lie face down on the floor on a flat surface. Raise your body by leaning on your toes and forearms keeping them parallel, in front of your head. The whole body must remain suspended, forming a kind of right triangle.</string>
+    <string name="exercise2">2. Chair Squats With a chair, perform the sit and stand movements 10 to 12 times per set. Try to make the movement of sitting down not too fast, strengthening the worked musculature..</string>
+    <string name="start">Lets be healthy </string>
+</resources>
